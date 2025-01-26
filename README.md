@@ -1,4 +1,6 @@
-# briefly
+# Overview
+
+**Briefly** is a chatbot designed to streamline task management by integrating with **Gmail**, **Slack**, and **Canvas**. Created for the "Vertical Specific AI Agents" hackathon, the chatbot collects unread emails, Slack messages, and upcoming assignments from Canvas, and uses AI to summarize and prioritize tasks. By providing an intuitive, centralized way to organize tasks, Briefly helps users efficiently manage their workload and stay on top of their responsibilities.
 
 ## Inspiration
 As college students, we often found it overwhelming to keep track of communications and assignments across all the different platforms our professors use. With constant deadlines and notifications, it's hard to stay organized, prioritize, and avoid falling behind. We wanted to build a tool that could help students manage everything effortlessly.
@@ -20,3 +22,9 @@ During this hackathon, many of us gained further familiarity with tools, such as
 
 ## What's next for Briefly
 In the future, we hope to integrate more student tools, such as Google Calender. We would also like to include options to take actions from the chatbot itself, such as the option to schedule an event on Google Calendar. Lastly, we would like to track completion status of tasks and keep track of tasks over multiple sessions.
+
+# Contributors 
+1. Ricky Miura
+2. John Green
+3. Jessica Lee
+4. Helen Lin
